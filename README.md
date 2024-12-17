@@ -1,4 +1,4 @@
-# HELLO WORLD USING GITOPS APPRO0ACH
+# HELLO WORLD USING GITOPS APPROACH
 
 This is a Python project that displays Hello World message from GitOps using gitops approach.
 
