@@ -1,10 +1,10 @@
-# HELLO WORLD FROM GitOps
+# HELLO WORLD USING GITOPS APPRO0ACH
 
-This is a GitOps project that displays Hello World message from GitOps using GitOps.
+This is a Python project that displays Hello World message from GitOps using gitops approach.
 
 ## Technologies used
 
-- Go
+- Python
 
 ## Installation
 
