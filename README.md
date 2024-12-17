@@ -24,20 +24,16 @@ To clone this repository to your local machine and start working with the projec
     
 ## Usage
 
-1. Open Visual Studio Code
+1. Have Python installed
 
-2. Make sure you have Go installed.
+2. Open VSCode
+
+3. Drag the entire folder where we saved the project to VSCode
+
+4. Open the app.py file
    
-3. Select server.go and right click on run code
-4. The following message should be displayed: `Servidor RPC en ejecución...`
-5. Make a cd to the client folder.
-6. Open VSCode terminal and enter the following command: `go run client.go`
-7. The following message should be displayed: `Hola Mundo desde RPC!`
-
-## Installation from docker
-
-If you want to use this program from docker, enter this url [here](https://hub.docker.com/repository/docker/fernanyag20/rpc-proyect/general), here you will find the docker commands.
-
+5. If you make any changes within the code, the deployment automation is observed
+   
 ## Contribution
 
 If you want to contribute to this project, please follow these instructions:
@@ -54,4 +50,4 @@ If you want to contribute to this project, please follow these instructions:
 
 ---
 
-Thank you for contributing to this HELLO WORLD FROM RPC! If you have any questions, please feel free to open an issue in the repository.
+Thank you for contributing to this HELLO WORLD USING GITOPS APPROACH project! If you have any questions, please feel free to open an issue in the repository.
